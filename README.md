@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Zoe González García! 👋
 
-<!--
-**zoegongar/zoegongar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrolladora apasionada por la tecnología y el diseño de software.
 
-Here are some ideas to get you started:
+Soy desarrolladora con experiencia en desarrollo web, trabajando con tecnologías como JavaScript, React y Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos Destacados**:
+- [Juego adivina el color](https://zoegongar.github.io/colores/) - Juego que consiste en adivinar el color que arriba tiene el código.
+- [Hackify](#) - Proyecto desarroyado para un hackaton. El proyecto consistía en hacer una página para reproducir música usando las herramientas de hackify.
+
+📫 **Contacto**:
+- [Mi página web](#)
+- [LinkedIn](https://www.linkedin.com/in/zoe-gonzalez-garcia/)
+
+¡Gracias por visitar mi perfil!
