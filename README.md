@@ -9,7 +9,6 @@ Soy desarrolladora con experiencia en desarrollo web, trabajando con tecnología
 - [Hackify](#) - Proyecto desarroyado para un hackaton. El proyecto consistía en hacer una página para reproducir música usando las herramientas de hackify.
 
 📫 **Contacto**:
-- [Mi página web](#)
 - [LinkedIn](https://www.linkedin.com/in/zoe-gonzalez-garcia/)
 
 ¡Gracias por visitar mi perfil!
