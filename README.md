@@ -1,13 +1,13 @@
-# ¡Hola, soy Zoe González García! 👋
+j# ¡Hola, soy Zoe González García! 👋
 
 ### Desarrolladora apasionada por la tecnología y el diseño de software.
 
-Soy desarrolladora con experiencia en desarrollo web, más enfocada en el front trabajando con herramientas como JavaScript, CSS, Figma, Vue o React, también conozco el back y manejo Java, PHP, MySQL, Node.js...
-
+Soy desarrolladora con experiencia en desarrollo web, más enfocada en el front trabajando con lenguajes como JavaScript, CSS, Vue o React, también trabajo en el back los lenguajes de Java, PHP, MySQL, Node.js, y las herramientas de diseño Figma, pixelmator pro, gimp y draw.io
 🎨 **Herramientas de Diseño:**
 - Figma
 - Pixelmator Pro
-- Adobe Photoshop
+- Gimp
+- draw.io
 
 🛠️ **Herramientas de Desarrollo:**
 - Visual Studio Code
@@ -17,6 +17,7 @@ Soy desarrolladora con experiencia en desarrollo web, más enfocada en el front 
 - HTML
 - CSS
 - JavaScript
+- TipeScript
 - Vue
 - React
   
